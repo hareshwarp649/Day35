@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\MsSqlAssignment\ProductReviewManage35\ProductReviewManage5\bin\Debug\ProductReviewManage5.exe.config
+C:\Users\ADMIN\Desktop\MsSqlAssignment\ProductReviewManage35\ProductReviewManage5\bin\Debug\ProductReviewManage5.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\ProductReviewManage35\ProductReviewManage5\bin\Debug\ProductReviewManage5.pdb
+C:\Users\ADMIN\Desktop\MsSqlAssignment\ProductReviewManage35\ProductReviewManage5\obj\Debug\ProductReviewManage5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\ProductReviewManage35\ProductReviewManage5\obj\Debug\ProductReviewManage5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\ProductReviewManage35\ProductReviewManage5\obj\Debug\ProductReviewManage5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\ProductReviewManage35\ProductReviewManage5\obj\Debug\ProductReviewManage5.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\ProductReviewManage35\ProductReviewManage5\obj\Debug\ProductReviewManage5.pdb
